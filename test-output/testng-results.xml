@@ -1,143 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-02T12:04:32 IST" name="Default suite" finished-at="2024-11-02T12:04:33 IST" duration-ms="508">
+  <suite started-at="2024-11-03T01:12:55 IST" name="Suite" finished-at="2024-11-03T01:13:34 IST" duration-ms="39344">
     <groups>
     </groups>
-    <test started-at="2024-11-02T12:04:32 IST" name="Default test" finished-at="2024-11-02T12:04:33 IST" duration-ms="508">
-      <class name="section05_lec46.DataProviderWithExcel">
-        <test-method signature="readData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:section05_lec46.DataProviderWithExcel@3e2e18f2]" started-at="2024-11-02T12:04:33 IST" name="readData" data-provider="dp" finished-at="2024-11-02T12:04:33 IST" duration-ms="11" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Selenium]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[29-Jul-2019]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[350.0]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Africa]]>
-              </value>
-            </param>
-          </params>
+    <test started-at="2024-11-03T01:12:55 IST" name="Test" finished-at="2024-11-03T01:13:34 IST" duration-ms="39344">
+      <class name="section04_lec42.FDCalculator">
+        <test-method signature="calculateFD()[pri:0, instance:section04_lec42.FDCalculator@5ae50ce6]" started-at="2024-11-03T01:12:55 IST" name="calculateFD" finished-at="2024-11-03T01:13:34 IST" duration-ms="39309" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- readData -->
-        <test-method signature="readData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:section05_lec46.DataProviderWithExcel@3e2e18f2]" started-at="2024-11-02T12:04:33 IST" name="readData" data-provider="dp" finished-at="2024-11-02T12:04:33 IST" duration-ms="3" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Java]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[29-Jul-2019]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[200.0]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Africa]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- readData -->
-        <test-method signature="readData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:section05_lec46.DataProviderWithExcel@3e2e18f2]" started-at="2024-11-02T12:04:33 IST" name="readData" data-provider="dp" finished-at="2024-11-02T12:04:33 IST" duration-ms="2" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Python]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[29-Jul-2019]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[250.0]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Asia]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- readData -->
-        <test-method signature="readData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:section05_lec46.DataProviderWithExcel@3e2e18f2]" started-at="2024-11-02T12:04:33 IST" name="readData" data-provider="dp" finished-at="2024-11-02T12:04:33 IST" duration-ms="3" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Jmeter]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[29-Jul-2019]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[150.0]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Asia]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- readData -->
-        <test-method signature="readData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:section05_lec46.DataProviderWithExcel@3e2e18f2]" started-at="2024-11-02T12:04:33 IST" name="readData" data-provider="dp" finished-at="2024-11-02T12:04:33 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[C#]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[29-Jul-2019]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[300.0]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Asia]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- readData -->
-      </class> <!-- section05_lec46.DataProviderWithExcel -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- calculateFD -->
+      </class> <!-- section04_lec42.FDCalculator -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
